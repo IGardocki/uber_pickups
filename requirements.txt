@@ -60,7 +60,7 @@ protobuf==3.20.3
 pyarrow==10.0.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
-pycairo==1.16.2
+# pycairo==1.16.2
 pycups==1.9.73
 pydeck==0.8.0
 Pygments==2.13.0
