@@ -2,7 +2,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os
 
+cwd = os.getcwd()
+st.write(cwd)
 st.title('Uber pickups in NYC') #puts in a title
 
 #sets DATE_COLUMN to 'date/time'
